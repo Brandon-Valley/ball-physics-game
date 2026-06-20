@@ -8,4 +8,4 @@ Neon Marble Rush is a single-file mobile ball physics game built for GitHub Page
 
 ## Controls
 
-Touch anywhere, pull back, and release. Collect shards, bounce off bumpers, avoid red hazards, use shields, and reach the portal.
+Drag in the direction you want the ball to launch, then release. Collect shards, bounce off bumpers, avoid red hazards, and reach the portal.
